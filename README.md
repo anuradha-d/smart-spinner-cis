@@ -29,7 +29,7 @@ USAGE
 Once you have installed this gem you can do the following :-
 
 
-# in application layout call spinner_tag,for example in application.html.haml
+In application layout call spinner_tag,for example in application.html.haml
 
 ```HTML
   = spinner_tag
