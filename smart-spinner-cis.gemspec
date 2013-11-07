@@ -1,6 +1,6 @@
 Gem::Specification.new do |s|
   s.name        = 'smart-spinner-cis'
-  s.version     = '0.0.2'
+  s.version     = '0.0.3'
   s.date        = '2013-11-01'
   s.summary     = "smart-spinner-ciss will provide spinner(ajax-loader) on page load"
   s.description = "smart-spinner-cis will provide spinner(ajax-loader) on page load"
