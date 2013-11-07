@@ -1,4 +1,4 @@
-spiner-cis
+smart-spiner-cis
 =================
 
 With the help of this gem you can easily have the spiner(ajax-loading-spiner) for your application  on load(page load). :-)
@@ -21,7 +21,7 @@ gem 'smart-spinner-cis'
 Run the generator command:
 
 ```
-rails g smart-spinner-cis:install
+rails g smart_spinner_cis:install
 ```
 
 USAGE
@@ -29,7 +29,7 @@ USAGE
 Once you have installed this gem you can do the following :-
 
 
-# in application layout call spinner_tag,for example in application.html.haml
+In application layout call spinner_tag,for example in application.html.haml
 
 ```HTML
   = spinner_tag
