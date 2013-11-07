@@ -1,4 +1,5 @@
 $(window).load(function(){
-  $("#div-load").hide();
+  setTimeout(function() {$("#div-load").hide();
   $("#div-another-image").hide();
+}, 1000);
 });
